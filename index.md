@@ -22,5 +22,5 @@ Let's get in touch!
 
 &copy; 2018 **[123 Data Learning](https://github.com/123datalearning/)**  
 [Christophe Bismuth](https://www.linkedin.com/in/cbismuth)  
-[mailto](mailto:cbismuth@123datalearning.com)  
+[cbismuth@123datalearning.com](mailto:cbismuth@123datalearning.com)  
 +33 6 67 21 65 31
