@@ -4,6 +4,8 @@ layout: default
 
 # 123 [Data, Learning]
 
+> Your data, at scale.
+
 Founded by [Christophe Bismuth](https://www.linkedin.com/in/cbismuth)
 with more than 15 years of expertise in large-scale  
 data-driven systems, **123 Data Learning** is devoted to help its
