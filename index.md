@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# 123 [Data, Learning]
+# 123 Data Learning
 
 > Your data, at scale.
 
 Founded by [Christophe Bismuth](https://www.linkedin.com/in/cbismuth)
 with more than 15 years of expertise in large-scale  
-data-driven systems, **123 Data Learning** is devoted to help its
-customers to overcome their _never-ending_ Big Data challenges.
+data-driven systems, **123 Data Learning** helps its customers to
+overcome their _never-ending_ Big Data challenges.
 
 We are there to help you to make the right decision when choosing one or
 more Big Data technologies and get them up & running all along with your
