@@ -16,8 +16,8 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
 
-title: "123 [Data, Learning]"
-description: "@cbismuth"
+title: "123 Data Learning"
+description: "Your data, at scale."
 
 twitter:
   username: cbismuth
