@@ -7,15 +7,14 @@ layout: default
 ### Your data, at scale.
 
 Founded by [Christophe Bismuth](https://www.linkedin.com/in/cbismuth)
-with more than 15 years of expertise in large-scale data-driven systems,
-**123 Data Learning** helps its customers to overcome their _never-ending_
-Big Data challenges.
+with 15 years of expertise in Software Engineering and large-scale data-driven systems,
+**123 Data Learning** helps companies to overcome their _never-ending_ Big Data challenges.
 
 I'm here to help you choose Big Data technologies and get them up & running
 all along with your beloved in-house engineers.
 
-And I'm also here make you gain expertise and your hands on technologies you
-would have already deployed.
+And I'm also here to make you gain expertise and get your hands on technologies
+you would have already deployed.
 
 Let's get in touch and talk about you and your projects!
 
